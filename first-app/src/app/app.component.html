@@ -1,0 +1,12 @@
+<div class="container">
+    <header>
+        <h1>{{ title | titlecase}}</h1>
+    </header>
+
+    <main>
+        <h2>Current count is: {{ count }}</h2>
+    </main>
+    <button (click)="onRest()">Rest Count</button>
+    <button (click)="onIncrease()">Increase count</button>
+    <button (click)="onDecrease()">Decrease count</button>
+</div>

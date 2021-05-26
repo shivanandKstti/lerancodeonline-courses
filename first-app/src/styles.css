@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-size: cover;
+    width: auto;
+    /* background-image: url("./assets/image.jpg"); */
+    background-color: rgb(199, 43, 90);
+    background-position: top;
+}
