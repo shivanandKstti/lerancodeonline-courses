@@ -1,0 +1,10 @@
+a javascript superset
+
+building up on javascript
+
+browser cant execute --> complied to js
+
+throwes error in editor while running 
+
+b4 running shows erros 
+
